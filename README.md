@@ -13,7 +13,7 @@ saya membuat tools ini untuk suatu project yang akan datang dan dapat digunakan 
 2) cd instaports
 3) python3 instaports.py
 
-![screenshot](img/proof2.png)  
+![screenshot](img/proof2.png)   
 
 ## Config Files
 File konfigurasi adalah file python yang ada di direktori ./attack penyelundup. File-file ini menjelaskan konten permintaan HTTP dan mutasi pengkodean transfer yang akan diuji.
