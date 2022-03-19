@@ -27,7 +27,7 @@ page_headers = {
     "Accept-Language": "tr-TR,tr;q=0.8,en-US;q=0.5,en;q=0.3",
     "Cache-Control": "no-cache",
     "Connection": "keep-alive",
-    "DNT": "1",
+    "DNT": "1", 
 }
 
 report_headers = {
