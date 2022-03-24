@@ -73,5 +73,5 @@ def report_profile_attack(username, proxy):
 Belum ada argumen masukan untuk menentukan header pelanggan dan agen pengguna Anda sendiri. Disarankan untuk membuat file konfigurasi Anda sendiri berdasarkan configuration.py dan memodifikasinya sesuai keinginan Anda.
 
 Informasi terkait checkpoint dikarenakan anda menggunakan proxy, solusi dari masalah tersebut gunakan banyak akun polosan dan gabungkan menjadi ``/wordlist.txt`` dijalankan bersamaan dengan ``proxy.list`` agar tidak terkena checkpoint secara bersamaan.
-
+ 
 tentukan file konfigurasi menggunakan opsi baris perintah ``/attack.py``
