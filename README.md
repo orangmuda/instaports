@@ -68,7 +68,7 @@ def report_profile_attack(username, proxy):
         print_error("Connection error occurred! (STATUS CODE:", res.status_code, ")")
         return
     
-    print_success("Successfully reported!")
+    print_success("Successfully reported!") 
 ```
 Belum ada argumen masukan untuk menentukan header pelanggan dan agen pengguna Anda sendiri. Disarankan untuk membuat file konfigurasi Anda sendiri berdasarkan configuration.py dan memodifikasinya sesuai keinginan Anda.
 
