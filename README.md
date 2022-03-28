@@ -11,7 +11,7 @@ saya membuat tools ini untuk suatu project yang akan datang dan dapat digunakan 
  
 1) git clone https://github.com/byteofandri/instaports.git
 2) cd instaports
-3) python3 instaports.py
+3) python3 instaports.py 
 
 ![screenshot](img/proof2.png)   
 
@@ -37,7 +37,7 @@ report_headers = {
     "Cache-Control": "no-cache",
     "Connection": "keep-alive",
     "Content-Type": "application/x-www-form-urlencoded",
-    "DNT": "1",
+    "DNT": "1", 
     "Host": "help.instagram.com",
     "Origin": "help.instagram.com",
     "Pragma": "no-cache",
