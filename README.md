@@ -1,6 +1,6 @@
 # Instaports
 Instagram Automatic tools for reporting users ``Instagram_api`` Private Project 2022 
-
+ 
 ## Running Automatic Reports Tool 
 Saya membuat software tersebut bukan untuk dipergunakan untuk hal-hal yang bersifat ilegal ataupun menentang pasal-pasal
 saya membuat tools ini untuk suatu project yang akan datang dan dapat digunakan untuk kepemerintahan.
@@ -11,7 +11,7 @@ saya membuat tools ini untuk suatu project yang akan datang dan dapat digunakan 
  
 1) git clone https://github.com/byteofandri/instaports.git
 2) cd instaports
-3) python3 instaports.py 
+3) python3 instaports.py  
 
 ![screenshot](img/proof2.png)   
 
@@ -73,5 +73,6 @@ def report_profile_attack(username, proxy):
 Belum ada argumen masukan untuk menentukan header pelanggan dan agen pengguna Anda sendiri. Disarankan untuk membuat file konfigurasi Anda sendiri berdasarkan configuration.py dan memodifikasinya sesuai keinginan Anda.
 
 Informasi terkait checkpoint dikarenakan anda menggunakan proxy, solusi dari masalah tersebut gunakan banyak akun polosan dan gabungkan menjadi ``/wordlist.txt`` dijalankan bersamaan dengan ``proxy.list`` agar tidak terkena checkpoint secara bersamaan.
- 
+  
 tentukan file konfigurasi menggunakan opsi baris perintah ``/attack.py``
+ 
