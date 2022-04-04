@@ -74,5 +74,5 @@ Belum ada argumen masukan untuk menentukan header pelanggan dan agen pengguna An
 
 Informasi terkait checkpoint dikarenakan anda menggunakan proxy, solusi dari masalah tersebut gunakan banyak akun polosan dan gabungkan menjadi ``/wordlist.txt`` dijalankan bersamaan dengan ``proxy.list`` agar tidak terkena checkpoint secara bersamaan.
   
-tentukan file konfigurasi menggunakan opsi baris perintah ``/attack.py``
+tentukan file konfigurasi menggunakan opsi baris perintah ``/attack.py`` 
  
