@@ -39,7 +39,7 @@ report_headers = {
     "Content-Type": "application/x-www-form-urlencoded",
     "DNT": "1", 
     "Host": "help.instagram.com",
-    "Origin": "help.instagram.com",
+    "Origin": "help.instagram.com", 
     "Pragma": "no-cache",
     "Referer": "https://help.instagram.com/contact/497253480400030",
     "TE": "Trailers",
