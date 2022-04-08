@@ -5,7 +5,7 @@ Instagram Automatic tools for reporting users ``Instagram_api`` Private Project 
 Saya membuat software tersebut bukan untuk dipergunakan untuk hal-hal yang bersifat ilegal ataupun menentang pasal-pasal
 saya membuat tools ini untuk suatu project yang akan datang dan dapat digunakan untuk kepemerintahan. 
  
-![screenshot](img/proof.png)     
+![screenshot](img/proof.png)      
  
 ## Installation
    
@@ -28,7 +28,7 @@ page_headers = {
     "Cache-Control": "no-cache",
     "Connection": "keep-alive",
     "DNT": "1", 
-} 
+}  
 
 report_headers = {
     "Accept": "*/*",
