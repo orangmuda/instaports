@@ -7,7 +7,7 @@ saya membuat tools ini untuk suatu project yang akan datang dan dapat digunakan 
   
 ![screenshot](img/proof.png)          
    
-## Installation       
+## Installation        
    
 1) git clone https://github.com/byteofandri/instaports.git
 2) cd instaports
